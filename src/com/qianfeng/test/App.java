@@ -5,5 +5,6 @@ public class App {
         System.out.println("hha");
         System.out.println("hehe");
         //System.out.println("heihei");
+          System.out.println("毕业了李乐乐乐乐Lee乐乐乐乐乐饿了来了");
     }
 }
